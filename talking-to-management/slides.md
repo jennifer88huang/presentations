@@ -17,9 +17,9 @@ Slides: github.com/rbowen/presentations
 
 ---
 
-# What I'm going to tell you, and why you should care
+# What I'm going to tell you, and why you should care 我要告诉你的事情，以及为什么你应该关心
 
-* How to talk to management about open source
+* How to talk to management about open source 如何与管理层讨论开源相关事宜
 
 ### Because
 
